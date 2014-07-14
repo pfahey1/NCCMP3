@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>NCCMP3</label>
+		<id>0</id>
+		<version>0</version>
+	</settings>
+	<users>
+		<user>
+			<path>NCCMP3.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>NCCMP3.jcp</path>
+		</project>
+	</projects>
+</workspace>
